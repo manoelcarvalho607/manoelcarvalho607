@@ -1,7 +1,9 @@
 ### Bem vindo ao meu repositório pessoal, meu nome é Manoel Carvalho! 🙂
-### "Nesse repositório tenho alguns projetos criados para estudo e pesquisa, a maioria é público então você pode ficar a vontade para fazer dowloand do arquivo ou um clone."
 
-##  Faço uso de algumas tecnológias como: JavaScript, Java, nodeJs, css, bootstrap, html, react etc... 
+### "Nesse repositório tenho alguns projetos criados para estudo e pesquisa, a maioria é público então você pode ficar a vontade para fazer dowloand do arquivo ou um clone."
+### Nesses projetos faço uso de algumas tecnológias como: JavaScript, Java, nodeJs, css, bootstrap, html, react etc... 
+
+
 
 
 
