@@ -1,4 +1,4 @@
-### Bem vindo ao meu repositório pessoal, meu nome é Manoel Carvalho! 🙂
+### Bem vindo ao meu repositório pessoal! 🙂
 
 
 
