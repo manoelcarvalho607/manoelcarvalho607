@@ -1,7 +1,6 @@
 ### Bem vindo ao meu repositório pessoal, meu nome é Manoel Carvalho! 🙂
 
-### "Solução de problemas e inovação."
-### Nesses projetos faço uso de algumas tecnológias como: Java, Spring, react, JavaScript, nodeJs, css, sql,  bootstrap, html e outras ...
+
 
 
 
